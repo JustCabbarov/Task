@@ -15,8 +15,12 @@ namespace Home_Task_3
             //int BiggestNumber = 0;
             //for (int i = 0; i < imputNumbers.Length; i++)
             //{
-            //    BiggestNumber = imputNumbers.Max();
-                
+            //    if (ImputNumer[i]>BiggestNumber)
+            {
+                BiggestNumber=imputNumber[i];
+            }
+            
+                     
             //}
             //Console.WriteLine(BiggestNumber);
 
